@@ -8,8 +8,3 @@ dependencies:
 - pandas
 - scipy
 - seaborn
-- scikit-learn
-- tensorflow
-- keras
-- pip:
-  - wandb
