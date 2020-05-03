@@ -8,3 +8,5 @@ dependencies:
 - pandas
 - scipy
 - seaborn
+- pip:
+  - wasabi
